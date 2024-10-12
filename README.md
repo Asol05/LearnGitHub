@@ -1,3 +1,3 @@
 # LearnGitHub
 
-Hi!! 
+Hi!! I am learning about github.
